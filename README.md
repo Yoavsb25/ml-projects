@@ -1,20 +1,55 @@
-# ML Projects
+# Machine Learning HW
 
-A collection of machine learning algorithms implemented from scratch using Python, NumPy, and pandas. Each project builds a core algorithm without relying on ML frameworks — scikit-learn is used only for comparison and validation.
+![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-7C3AED?style=for-the-badge)
+![Course](https://img.shields.io/badge/Course-Machine_Learning-6B7280?style=for-the-badge)
 
-## Projects
+> ML algorithms implemented from scratch — linear regression to neural networks.
 
-| # | Topic | Key Technique |
-|---|-------|--------------|
-| 1 | [Linear Regression](Project1%20-%20linear%20regression/) | Gradient descent, NumPy vectorization |
-| 2 | [Decision Trees](Project2%20-%20decision%20trees/) | Entropy, Gini impurity, chi-squared pruning |
-| 3 | [Statistical Models](Project3%20-%20statistic%20models/) | Naive Bayes, MAP, MaxPrior, MaxLikelihood |
-| 4 | [Logistic Regression](Project4%20-%20logistic%20regression/) | Gradient descent, EM for Gaussian mixtures, Pearson correlation |
-| 5 | [K-Means Clustering](Project5%20-%20k-means/) | K-Means++, color quantization |
+---
 
-## Tools
+## Overview
 
-- **NumPy** — all core math and matrix operations
-- **pandas** — data loading and preprocessing
-- **Jupyter Notebook** — exploration and visualization
-- **scikit-learn** — used for validation/comparison only, not for building the models
+This repository contains homework and project implementations from the Machine Learning HW course (2025). All algorithms are built from first principles using Python and NumPy — no sklearn for core implementations. The goal is to build deep intuition for how ML models actually work under the hood.
+
+## What's Inside
+
+- Linear and logistic regression
+- Decision trees and ensemble methods
+- Neural network forward and backpropagation
+- Clustering algorithms (K-Means, etc.)
+- Model evaluation and cross-validation
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-A78BFA?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## Getting Started
+
+**Prerequisites:**
+- Python 3.x
+- pip
+
+**Installation:**
+```bash
+git clone https://github.com/Yoavsb25/Machine_Learning_HW.git
+cd Machine_Learning_HW
+pip install numpy pandas jupyter matplotlib
+```
+
+## Usage
+
+```bash
+jupyter notebook
+```
+
+Open any `.ipynb` file to explore an algorithm implementation with explanations and visualizations.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/Yoav_Sborovsky-LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoav-sborovsky/)
+&nbsp;
+Part of [Yoav Sborovsky's GitHub portfolio](https://github.com/Yoavsb25)
