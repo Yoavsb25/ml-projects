@@ -1,4 +1,4 @@
-# Machine Learning HW
+# ML Projects
 
 ![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-7C3AED?style=for-the-badge)
@@ -35,8 +35,8 @@ This repository contains homework and project implementations from the Machine L
 
 **Installation:**
 ```bash
-git clone https://github.com/Yoavsb25/Machine_Learning_HW.git
-cd Machine_Learning_HW
+git clone https://github.com/Yoavsb25/ml-projects.git
+cd ml-projects
 pip install numpy pandas jupyter matplotlib
 ```
 
